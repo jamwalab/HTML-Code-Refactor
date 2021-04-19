@@ -98,7 +98,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/**/
+/* -----Benefit section styles----- */
 
 .benefits {
     margin-right: 20px;
@@ -111,6 +111,23 @@ header nav ul li {
     background-color: #2589bd;
 }
 
+.benefit-content {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-content h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-content img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -158,7 +175,6 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/*
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -213,6 +229,7 @@ header nav ul li {
     font-size: 36px;
 }
 */
+
 .footer {
     padding: 30px;
     clear: both;
