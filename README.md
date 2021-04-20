@@ -17,3 +17,4 @@
 * Commnets added to HTML page as well.
 * Other minor changes to the code.
 * _**Additional note:**_ When I changed the heading in the benefit section from h3 to h2, I applied the default font size of h3 element to the new h2 heading in benefit section but it looked smaller than that in the preview so I removed it and used the default h2 font size (which looks similar to the preview).
+* _**Additional note 2:**_ As per the module for link to the homepage we need to use href="/", but that doesn't work on git. "./" works on git but not on the local drive. So just to be on the safer side and for it to work everywhere, I used "./index.html".
